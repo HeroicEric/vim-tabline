@@ -37,3 +37,4 @@ Then reload vim.
 
 - [ ] Option for toggling tab numbers
 - [ ] Different preset styles
+- [ ] Option to configure modified character
