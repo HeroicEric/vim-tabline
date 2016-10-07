@@ -22,6 +22,17 @@ Your tabs will be labeled as shown in this image:
 
 ![screenshot](https://raw.github.com/HeroicEric/vim-tabline/master/screenshots/screenshot.png)
 
+## Installation
+
+You can use [pathogen.vim](https://github.com/tpope/vim-pathogen), or any other
+way that you like to install vim plugins.
+
+```
+$ git clone https://github.com/HeroicEric/vim-tabline.git ~/.vim/bundle/vim-tabline
+```
+
+Then reload vim.
+
 ### Todo
 
 - [ ] Option for toggling tab numbers
